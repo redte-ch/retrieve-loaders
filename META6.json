@@ -1,0 +1,22 @@
+{
+  "name": "retrieve-loaders",
+  "description": "Write me!",
+  "version": "0.1",
+  "perl": "6.d",
+  "authors": [
+    "Write me!"
+  ],
+  "auth": "Write me!",
+  "depends": [],
+  "build-depends": [],
+  "test-depends": [
+    "Test",
+    "Test::META"
+  ],
+  "provides": {
+    "retrieve-loaders": "lib/retrieve-loaders.rakumod"
+  },
+  "resources": [],
+  "license": "Write me!",
+  "source-url": "Write me!"
+}
